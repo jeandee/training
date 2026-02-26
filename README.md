@@ -1,3 +1,3 @@
-# training
+# About this repo
 
-## My training philosophy
+This is a small website created to store my e-portfolio as part of my requirements for my TAFE course.
