@@ -1,1 +1,3 @@
 # training
+
+## My training philosophy
