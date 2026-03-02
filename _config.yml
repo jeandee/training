@@ -1,3 +1,11 @@
 remote_theme: jamigibbs/phantom@latest
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+nav_item:
+    - { url: '/', text: 'Home' }
+    - { url: '/philosophy', text: 'Philosophy' }
+    - { url: '/goals', text: 'Goals' }
+
+{% include contact.html %}
+{% include contact-modal.html %}
