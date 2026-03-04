@@ -1,4 +1,4 @@
-remote_theme: jamigibbs/phantom@latest
+remote_theme: niklasbuschmann/contrast@latest
 plugins:
 - jekyll-remote-theme
 
