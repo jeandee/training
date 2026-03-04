@@ -1,11 +1,11 @@
-remote_theme: jeromelachaud/freelancer-theme@latest
+remote_theme: jamigibbs/phantom@latest
 plugins:
 - jekyll-remote-theme
 
-# nav_item:
-#     - { url: '/', text: 'Home' }
-#     - { url: '/philosophy', text: 'Philosophy' }
-#     - { url: '/goals', text: 'Goals' }
+nav_item:
+    - { url: '/', text: 'Home' }
+    - { url: '/philosophy', text: 'Philosophy' }
+    - { url: '/goals', text: 'Goals' }
 
-# {% include contact.html %}
-# {% include contact-modal.html %}
+{% include contact.html %}
+{% include contact-modal.html %}
