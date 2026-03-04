@@ -1,4 +1,4 @@
-remote_theme: JustGoodThemes/Scriptor-Jekyll-Theme@latest
+remote_theme: jeromelachaud/freelancer-theme@latest
 plugins:
 - jekyll-remote-theme
 
