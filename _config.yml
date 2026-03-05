@@ -1,3 +1,10 @@
 remote_theme: riggraz/no-style-please
+
+titles_from_headings:
+  enabled:     false
+  strip_title: false
+  collections: false
+
 plugins:
 - jekyll-remote-theme
+- jekyll-titles-from-headings
