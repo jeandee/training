@@ -1,9 +1,9 @@
 entries:
   - title: 'Home'
-    url: '/training.md'
+    url: '/training'
   - title: 'Goals'
-    url: './goals.md'
+    url: './goals'
   - title: 'Philosophy'
-    url: './philosophy.md'
+    url: './philosophy'
   - title: 'Portfolio'
-    url: './portfolio.md'
+    url: './portfolio'
