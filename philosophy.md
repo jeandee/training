@@ -2,6 +2,8 @@
 title: Philosophy
 ---
 
+# Philosophy
+
 ## Why I've taken up Certificate IV in Training and Assessment
 
 I was often a good tutor as a student, and when I onboard and train people at work they tend to take well to my approach.
