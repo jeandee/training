@@ -1,6 +1,8 @@
 entries:
   - title: 'Home'
     url: '/training'
+  - title: 'About'
+    url: './about'
   - title: 'Goals'
     url: './goals'
   - title: 'Philosophy'
