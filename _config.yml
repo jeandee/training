@@ -1,11 +1,3 @@
-remote_theme: jamigibbs/phantom@latest
+remote_theme: niklasbuschmann/contrast@latest
 plugins:
 - jekyll-remote-theme
-
-nav_item:
-    - { url: '/', text: 'Home' }
-    - { url: '/philosophy', text: 'Philosophy' }
-    - { url: '/goals', text: 'Goals' }
-
-# {% include contact.html %}
-# {% include contact-modal.html %}
