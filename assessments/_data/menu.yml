@@ -1,0 +1,9 @@
+entries:
+  - title: 'Home'
+    url: '/'
+  - title: 'Goals'
+    url: './goals.md'
+  - title: 'Philosophy'
+    url: './philosophy.md'
+  - title: 'Portfolio'
+    url: './portfolio.md'
