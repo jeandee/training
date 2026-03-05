@@ -1,4 +1,4 @@
-remote_theme: niklasbuschmann/contrast@latest
+remote_theme: JustGoodThemes/Scriptor-Jekyll-Theme@latest
 plugins:
 - jekyll-remote-theme
 
