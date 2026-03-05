@@ -13,13 +13,13 @@ Learners are driven by curiosity or necessity. Regardless, you have to meet thei
 
 ## My presence elsewhere
 
-- [My personal blog](www.jeandee.co)
-- [My online business card](www.jeanjackson.co)
+- [My personal blog](http://www.jeandee.co)
+- [My online business card](http://www.jeanjackson.co)
 
 ## Passion projects
 
-- [aklatan.au](www.aklatan.au)
-- [The Catholic Filipina](www.thecatholicfilipina.com)
+- [aklatan.au](http://www.aklatan.au)
+- [The Catholic Filipina](http://www.thecatholicfilipina.com)
 
 ## Socials
 
