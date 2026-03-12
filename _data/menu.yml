@@ -3,6 +3,8 @@ entries:
     url: '/training'
   - title: 'About'
     url: './about'
+  - title: 'CV'
+    url: './cv'
   - title: 'Goals'
     url: './goals'
   - title: 'Philosophy'
